@@ -1,4 +1,4 @@
-#                                                            Hi wave, I'm Sea Vortex
+#                                                            Hi 👋, I'm Sea Vortex
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/728360891644641303
