@@ -5,7 +5,7 @@
 🔗 &nbsp;**Contact with me**
 <p align="left">
 <a href="https://instagram.com/seavortexx" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="seavortexx" height="30" height="40" /></a>
-<a href="https://discord.gg/devmind" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/05/discord_logo-freelogovectors.net_.png" alt="Sea Vortex#1969" height="30"/></a>
+<a href="https://discord.gg/devmind" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Sea Vortex#1969" height="30"/></a>
 </br><img src="https://komarev.com/ghpvc/?username=SeaVortex&color=dc143c"/>
 
 🔗 &nbsp;**Database**
