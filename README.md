@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://discord.com/devmind"><img align="blank" src="https://img.shields.io/badge/Discord-DevMind-8EA1E1?style=for-the-badge&logo=discord" /></a>
 <a href="https://instagram.com/seavortexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seavortexx" height="30" width="40" /></a>
-
+<a href="https://discord.gg/devmind" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-DevMind-8EA1E1?style=for-the-badge&logo=discord" alt="Sea Vortex#1969" height="30" width="40" /></a>
 
 🔗 &nbsp;**Databases**
 <p align="left">
