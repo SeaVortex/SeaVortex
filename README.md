@@ -4,7 +4,7 @@
                   
 🔗 &nbsp;**Contact with me**
 <p align="left">
-<a href="https://instagram.com/seavortexx" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram%20-ff0072.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="seavortexx" height="30" /></a>
+<a href="https://instagram.com/seavortexx" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="seavortexx" height="30" height="40" /></a>
 <a href="https://discord.gg/devmind" target="blank"><img align="center" src="https://img.shields.io/badge/DevMind-8EA1E1?style=for-the-badge&logo=discord" alt="Sea Vortex#1969" height="30"/></a>
 </br><img src="https://komarev.com/ghpvc/?username=SeaVortex&color=dc143c"/>
 
