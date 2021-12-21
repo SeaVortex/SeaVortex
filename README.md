@@ -11,6 +11,7 @@
 🔗 &nbsp;**Database**
 <p align="left">
 <a href="https://www.mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+</br><img src="https://komarev.com/ghpvc/?username=SeaVortex&color=dc143c"/>
   
 🔗 &nbsp; **Software Languages**
 <p align="left">  
