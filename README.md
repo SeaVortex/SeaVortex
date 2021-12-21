@@ -4,8 +4,9 @@
                   
 🔗 &nbsp;**Contact with me**
 <p align="left">
+<a href="https://discord.com/devmind"><img align="left" src="https://img.shields.io/badge/Discord-DevMind-8EA1E1?style=for-the-badge&logo=discord" /></a>
 <a href="https://instagram.com/seavortexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seavortexx" height="30" width="40" /></a>
-<a href="https://discord.com/devmind"><img align="left" src="https://img.shields.io/badge/Discord-DevMind-8EA1E1?style=for-the-badge&logo=discord" /> </a>
+
 
 🔗 &nbsp;**Databases**
 <p align="left">
