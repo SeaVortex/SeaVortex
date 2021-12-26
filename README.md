@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sea Vortex
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/728360891644641303 )](https://discord.com/users/728360891644641303) 
-<p><img align="left | right | top" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seavortex&theme=dark&show_icons=true&locale=en&layout=compact" alt="SeaVortex"  /></p><p>&nbsp;<img align="left | right | top" width="50%" src="https://github-readme-stats.vercel.app/api?username=SeaVortex&theme=dark&show_icons=true&locale=en" alt="SeaVortex"  ></p>
+<p><img align="right | top" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=seavortex&theme=dark&show_icons=true&locale=en&layout=compact" alt="SeaVortex"  /></p><p>&nbsp;<img align="right | top" width="50%" src="https://github-readme-stats.vercel.app/api?username=SeaVortex&theme=dark&show_icons=true&locale=en" alt="SeaVortex"  ></p>
                   
 🔗 &nbsp;**Contact with me**
 <p align="left">
