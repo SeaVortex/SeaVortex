@@ -6,7 +6,7 @@
                   
 🔗 &nbsp;**Contact with me**
 <p align="left">
-<a href="https://discord.com/devmind" target"blank_"><img src="https://img.shields.io/badge/DevMind%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/seateam" target"blank_"><img src="https://img.shields.io/badge/Sea Team%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/ukjorgf2en4hohso5hq2kb9ze" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://instagram.com/seavortex" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </br><img src="https://komarev.com/ghpvc/?username=SeaVortex&color=dc143c"/>
