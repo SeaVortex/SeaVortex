@@ -20,7 +20,7 @@
  
 🔗 &nbsp; **Software Languages**
 <p align="left">  
-<a href="#" target="_blank"> <img src="https://turkmenzaman.com/assets/images/javascript-39417.png" alt="JavaScript" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://buldumz.com/wp-content/uploads/2021/03/JavaScript-yazilim-dili-300x300.png" alt="JavaScript" width="40" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://35kod.com/upload/posts/images/typescript-dil-kod.png" alt="TypeScript" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/c/18/css.svg" alt="css" width="40" height="40"/> </a>
