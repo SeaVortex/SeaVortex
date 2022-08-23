@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sea Vortex
-<hr>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/728360891644641303 )](https://discord.com/users/728360891644641303) 
 
 
