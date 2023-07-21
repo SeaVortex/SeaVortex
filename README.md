@@ -4,6 +4,9 @@
 <div align="center">
    <a href="https://discord.com/users/728360891644641303" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/728360891644641303?bg=111111">
+      <a href="https://top.gg/bot/938242086061363241">
+  <img src="https://top.gg/api/widget/938242086061363241.svg">
+</a>
    </a>
 </div>
 
